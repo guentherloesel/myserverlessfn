@@ -6,5 +6,4 @@ functions:
   myserverlessfn:
     lang: node20
     handler: ./myserverlessfn
-    image: myserverlessfn:latest
-
+    image: ghcr.io/guentherloesel/myserverlessfn/myserverlessfn:0.2.0
